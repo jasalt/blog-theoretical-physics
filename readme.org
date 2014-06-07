@@ -1,0 +1,9 @@
+* Testing Pelican
+Clone repo
+
+Install [[https://github.com/slok/iris][iris theme]] to site packages [use python virtualenv].
+
+Run
+./make html
+
+Serve files from ./output folder.
