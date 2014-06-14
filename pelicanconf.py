@@ -25,8 +25,8 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Jinja2', 'http://jinja.pocoo.org/'),
           ('You can modify those links in your config file', '#'),)
 
-ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{slug}/"
-ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{slug}/index.html"
+ARTICLE_URL = "posts/{slug}/"
+ARTICLE_SAVE_AS = "posts/{slug}/index.html"
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
