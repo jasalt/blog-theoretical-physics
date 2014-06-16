@@ -1,4 +1,4 @@
-* Testing Pelican
+* theoreticalphysics.co
 Clone repo
 
 Install [[https://github.com/slok/iris][iris theme]] to site packages [use python virtualenv].
