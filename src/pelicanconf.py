@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Konsta Kurki'
 SITENAME = 'Theoretical Physics Blog'
-SITEURL = ''
+SITEURL = 'http://localhost:3333'
 
 TIMEZONE = 'Europe/Helsinki'
 
@@ -17,7 +17,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-THEME="iris"
+THEME="texris-proto"
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
