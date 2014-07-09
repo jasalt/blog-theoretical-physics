@@ -5,9 +5,8 @@
           <li class="current"><a href="{{ SITEURL }}">Blog</a> </li>
           <li><a href="{{ SITEURL }}/archives.html">Archive</a></li>
           <li><a href="{{ SITEURL }}/tags.html">Tags</a> </li>
-          {% for page in PAGES %}
-          <li><a href="{{ SITEURL }}/{{page.url}}">{{page.title}}</a> </li>
-          
+          {% for p in PAGES %}
+          <li><a href="{{ SITEURL }}/{{p.url}}">{{p.title}}</a> </li>
           {% endfor %}
         </ol>
       </div>

@@ -1,12 +1,14 @@
 {% extends "index.html" %}
 {% block navigation %}
-     <div class="navigation">
-        <ol class="nav">
-          <li><a href="{{ SITEURL }}">Blog</a> </li>
-          <li><a href="{{ SITEURL }}/archives.html">Archive</a></li>
-          <li class="current"><a href="{{ SITEURL }}/tags.html">Tags</a> </li>
-          <li><a href="{{ SITEURL }}/{{ FEED_RSS }}">RSS</a> </li>
-        </ol>
-      </div>
+<div class="navigation">
+  <ol class="nav">
+    <li><a href="{{ SITEURL }}">Blog</a> </li>
+    <li><a href="{{ SITEURL }}/archives.html">Archive</a></li>
+    <li class="current"><a href="{{ SITEURL }}/tags.html">Tags</a> </li>
+    {% for p in PAGES %}
+    <li><a href="{{ SITEURL }}/{{p.url}}">{{p.title}}</a> </li>
+    {% endfor %}
+  </ol>
+</div>
 {% endblock navigation %}
 {% block title %}{{ SITENAME }} <small>{{ tag }}</small>{% endblock %}
