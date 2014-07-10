@@ -6,9 +6,23 @@ Musta-aukko ja aikamatkustus
 :slug: hole-time
 :summary: Tutkimme ilmiön pragmaattis-konstruktiivista syntyperää
 
+`Download PDF 
+<../../pdfs/testdoc.pdf>`_
+
+You can |location_link|.
+
+.. |location_link| raw:: html
+
+   <a href="../../pdfs/testdoc.pdf" target="_blank">open download in new tab too.</a>
+
 Nfvqr Sebz gur gvgyr.
 Naq gur pngrtbel pna or qrgrezvarq ol gur qverpgbel va juvpu gur svyr erfvqrf. Sbe rknzcyr.
 N svyr ybpngrq ng clguba/sbbone/zlsbbone.Efg jvyy unir n pngrtbel bs sbbone. Vs lbh jbhyq yvxr gb betnavmr lbhe svyrf va bgure jnlf jurer gur anzr bs gur fhosbyqre jbhyq abg or n tbbq pngrtbel anzr.
+
+.. image:: |filename|/images/testimg.png
+   :width: 300 px
+   :alt: Kuvaus kuvalle
+           
 Lbh pna frg gur frggvat HFR_SBYQRE_NF_PNGRTBEL gb Snyfr. Vs gurer vf ab fhzznel zrgnqngn sbe n tvira cbfg.
 Gur FHZZNEL_ZNK_YRATGU frggvat pna or hfrq gb fcrpvsl ubj znal jbeqf sebz gur ortvaavat bs na negvpyr ner hfrq nf gur fhzznel.
 Abar bs guvf zrgnqngn vf znaqngbel: vs gur qngr vf abg fcrpvsvrq.
