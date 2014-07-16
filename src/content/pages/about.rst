@@ -10,7 +10,8 @@ My name is Konsta Kurki. I am a student of physics in University of Jyväskylä,
 
 I am greatly thankful to my friends Karri Kuivanen and Jarkko Saltiola who carried out the technical implementation of the site. Technologies used include Pelican, Mathjax and Disqus.
 
-If you wish to support the writing of these articles, please consider making a donation. BitCoin and Paypal are supported.
+..
+   If you wish to support the writing of these articles, please consider making a donation. BitCoin and Paypal are supported.
 
 konsta.k.kurki@student.jyu.fi
 
