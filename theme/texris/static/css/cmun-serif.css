@@ -45,4 +45,7 @@
 	font-style: italic;
 }
 
-
+h1 {
+    font-family: 'Computer Modern Serif';
+    font-weight: normal;
+}
