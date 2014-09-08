@@ -10,6 +10,7 @@ SITENAME = 'Theoretical Physics'
 SITEURL = 'http://localhost:3333' #TODO set publish url
 
 TIMEZONE = 'Europe/Helsinki'
+LOCALE = 'en_AU.utf8'
 
 DEFAULT_LANG = 'en'
 
