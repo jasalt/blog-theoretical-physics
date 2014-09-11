@@ -10,7 +10,7 @@ SITENAME = 'Theoretical Physics'
 SITEURL = 'http://localhost:3333' #TODO set publish url
 
 TIMEZONE = 'Europe/Helsinki'
-LOCALE = 'en_AU.utf8'
+LOCALE = 'en_US.UTF-8'
 
 DEFAULT_LANG = 'en'
 
@@ -42,6 +42,9 @@ DEFAULT_PAGINATION = 5
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["images", "pdfs",]
+
+# Ignore all html input files
+READERS = {'html': None}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
