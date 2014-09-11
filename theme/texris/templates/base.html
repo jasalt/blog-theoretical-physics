@@ -26,7 +26,7 @@
     <meta charset="utf-8" />
 
     {% if article %}
-    <meta name="description" content="{{article.summary|striptags}}"/>
+    <meta name="description" content="{{article.description}}"/>
     {% endif %}
 
     {% if FEED_RSS %}
@@ -34,7 +34,7 @@
     {% endif %}
 
     <!-- Javascript-->
-    <script async src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="https://code.jquery.Com/jquery-1.11.1.min.js"></script>
     <script async type="text/javascript">
       $(function() {
       function invisibleMenu() {
