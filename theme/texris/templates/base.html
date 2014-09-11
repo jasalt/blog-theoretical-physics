@@ -25,6 +25,10 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/cmun-serif.css" type="text/css" />
     <meta charset="utf-8" />
 
+    {% if article %}
+    <meta name="description" content="{{article.summary|striptags}}"/>
+    {% endif %}
+
     {% if FEED_RSS %}
     <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
     {% endif %}
