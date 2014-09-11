@@ -2,22 +2,17 @@ Articles
 ############################
 
 :date: 2014-07-07 10:00
-:tags: dev, about, info
+:tags: 
 :slug: articles
-:summary: About-sivun summary
+:summary: All the articles in PDF format with their abstracts are found here.
 
 The principle of relativity
 ===========================
 
 `View or Download PDF
-<../../pdfs/testdoc.pdf>`_
+<../../pdfs/the_principle_of_relativity.pdf>`_
 
-Uutta somettajien materiaalia Tubessa! Katso ja käy myös tilaamassa kanava, sillä syksyllä on luvassa ennennäkemätöntä juissimaista meininkiä, johon myös SINÄ voit osallistua!
+`View or Download PDF - Greek indices version
+<../../pdfs/the_principle_of_relativity_greekindices.pdf>`_
 
-The principle of cokc
-===========================
-
-`View or Download PDF
-<../../pdfs/testdoc.pdf>`_
-
-Hhggn fbzrggnwvra zngrevnnyvn Ghorffn! Xngfb wn xäl zlöf gvynnznffn xnanin, fvyyä flxflyyä ba yhinffn raaraaäxrzägöagä whvffvznvfgn zrvavaxvä, wbuba zlöf FVAÄ ibvg bfnyyvfghn!
+The Principle of Relativity is discovered through a thought experiment. Lorentz boosts and basic features of Special Relativity are qualitatively discussed with the aid of Minkowski diagrams. Quantitative description of the Lorentz group is developed following Lie's approach. Particle action, energy and momentum are discussed and spacetime forms of the action principle and Noether's theorem developed.
