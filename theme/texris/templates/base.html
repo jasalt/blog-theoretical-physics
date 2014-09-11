@@ -2,7 +2,17 @@
 <html lang="{{ DEFAULT_LANG }}">
   <head>
     {% block head %}
+
+    {% if not article %}
+    {% if page %}
+    <title>{{page.title}} - {{ SITENAME }}</title>
+    {% else %}
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    {% endif %}
+    {% else %}
+    <title>{{article.title}} - {{ SITENAME }}</title>
+    {% endif %}
+
     <!-- Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
