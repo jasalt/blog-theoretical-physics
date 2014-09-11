@@ -5,6 +5,7 @@ The first post
 :tags: meta
 :slug: first-post
 :summary: The first post
+:description: The first post
 
 While reading books on physics over the last two or three years, there has grown a will in me to write my own book. I have a strong feeling about what kind of a book or a series of books I would like to see to exist. It would be one with purely theoretical approach, focusing only on building understanding of the deepest concepts - with no energy wasted on mathematical subtleties, unnecessary applications or fine calculation techniques - and rooted in firm physical grounds, guided by common sense and everyday observations.
 

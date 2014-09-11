@@ -2,9 +2,10 @@ The Principle of Relativity
 ###########################
 
 :date: 2014-09-10 18:01
-:tags: entropia, eulerin vakio, lineaarihorisontti, musta aukko
+:tags: article, special relativity, gravitation
 :slug: the-principle-of-relativity
 :summary: The first article I have written deals with Special Relativity.
+:description: The Principle of Relativity is discovered through a thought experiment. Lorentz boosts and basic features of Special Relativity are qualitatively discussed with the aid of Minkowski diagrams. Quantitative description of the Lorentz group is developed following Lie's approach. Particle action, energy and momentum are discussed and spacetime forms of the action principle and Noether's theorem developed.
 
 The first article I have written deals with Special Relativity. As a subject, Special Relativity seems to be a kind of an outcast - in elementary texts it is treated poorly while more advanced works assume it to be thoroughly known.
 
