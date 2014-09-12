@@ -19,7 +19,7 @@ Beacause of that, before the writing I had many critical gaps in my understandin
 
 In the text it is assumed that the reader is familiar with the basic mathematical concepts of calculus and linear algebra. The Lagrangian formulation of classical mechanics using the Principle of Least Action is assumed to be understood.
 
-The text makes a heavy use of index notation in which I have decided to use colored balls as indices. Because some printers and e-book readers do not support color and some people do have difficulties in differentiating colors, a version of the article using traditional Greek indices is also provided. If possible, I recommend to read the colorball version, because the colors improve the readability very significantly.
+The text makes a heavy use of index notation in which I have decided to use colored balls as indices. Because some printers and e-book readers do not support color and some people do have difficulties in differentiating colors, a version of the article using traditional Greek indices is also provided. If possible, I recommend reading the colorball version, because the colors highly improve the readability of indexful formulas.
 
 The abstract
 ============
