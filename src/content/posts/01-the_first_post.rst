@@ -1,11 +1,11 @@
-Introducing the project Theoretical Physics
+Introducing Theoretical Physics
 ###########################################
 
 :date: 2014-09-10 18:00
 :tags: meta
 :slug: introducing_theoretical_physics
-:summary: Theoretical Physics is articles about physics written in purely theoretical approach, the only objective being to build understanding. Hopefully someday the articles become a real book on theoretical physics.
-:description: Theoretical Physics is articles about physics written in purely theoretical approach, the only objective being to build understanding. Hopefully someday the articles become a real book on theoretical physics.
+:summary: Theoretical Physics is articles about physics written following purely theoretical approach, the only objective being to build understanding. Hopefully someday the articles become a real book on theoretical physics.
+:description: Theoretical Physics is articles about physics written following purely theoretical approach, the only objective being to build understanding. Hopefully someday the articles become a real book on theoretical physics.
 
 While reading books on physics over the last two years, a will to write a book of my own has grown in me. I have a strong feeling about what kind of a book or a series of books I would like to see in my bookshelf. It would be one with a purely theoretical approach, focusing only on building understanding of the core concepts - with no energy wasted on mathematical subtleties, analysis of countless applications or fine calculation techniques - and rooted in firm physical grounds, guided by common sense and as far as possible by everyday observations.
 
