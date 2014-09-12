@@ -13,4 +13,3 @@ About
 
 
 ..
-   If you wish to support the writing of these articles, please consider making a donation. BitCoin and Paypal are supported.
