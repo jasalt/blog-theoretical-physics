@@ -19,6 +19,6 @@ In 2014 our map is astonishingly precise. But it is not perfect, the most obviou
 
 Anyway, something happened and in the late spring I noticed that I could write. I believe I am now in a position that I can write about classical physics, including Lagrangian and Hamiltonian mechanics, electromagnetism and perhaps General Relativity. I am hoping that I acquire a deep enough understanding of quantum physics and statistical mechanics, in a sense of being able to write about them, in a year or two.
 
-Instead of trying to write a complete book at once, I decided to write articles which could some day become chapters of the book. I have alredy written one article, about Special Relativity, and two more are in progress. I will publish the articles on this website. Hopefully I have the energy to carry this project far - however, a fast pace of updates cannot be expected.
+Instead of trying to write a complete book at once, I decided to write articles which could some day become chapters of the book. I have already written one article, about Special Relativity, and two more are in progress. I will publish the articles on this website. Hopefully I have the energy to carry this project far - however, a fast pace of updates cannot be expected.
 
 I am glad to have friends like Karri Kuivanen and Jarkko Saltiola who coded the website. I would not have been able to do it by myself. Very big thanks to them.

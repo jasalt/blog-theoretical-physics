@@ -30,7 +30,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 ARTICLE_URL = "posts/{slug}/"
 ARTICLE_SAVE_AS = "posts/{slug}/index.html"
 
-DISQUS_SITENAME = "testphysblog"
+DISQUS_SITENAME = "theoreticalphysics"
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
